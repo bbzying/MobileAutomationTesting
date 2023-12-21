@@ -1,0 +1,1611 @@
+2023-12-21 19:31:58.568 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:33:41.148 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:43:58.057 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:44:06.885 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:44:08.819 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843424,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:44:08.821 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843424
+2023-12-21 19:44:08.821 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843424
+2023-12-21 19:44:10.485 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843424,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:44:10.486 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 19:44:10.497 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:44:57.349 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:45:03.272 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:45:05.848 [main] INFO  helper.APIHelper - API POST response - [
+    {
+        "field": "email",
+        "message": "has already been taken"
+    }
+]
+2023-12-21 19:45:05.860 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:48:36.680 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:48:40.311 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:48:42.324 [main] INFO  helper.APIHelper - API POST response - [
+    {
+        "field": "email",
+        "message": "has already been taken"
+    }
+]
+2023-12-21 19:48:42.337 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:49:11.772 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:49:15.406 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:49:18.322 [main] INFO  helper.APIHelper - API POST response - [
+    {
+        "field": "email",
+        "message": "has already been taken"
+    }
+]
+2023-12-21 19:49:18.335 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:49:45.115 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:49:48.750 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:49:51.848 [main] INFO  helper.APIHelper - API POST response - [
+    {
+        "field": "email",
+        "message": "has already been taken"
+    }
+]
+2023-12-21 19:49:51.863 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:50:08.763 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:50:12.404 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'112teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:50:15.115 [main] INFO  helper.APIHelper - API POST response - [
+    {
+        "field": "email",
+        "message": "has already been taken"
+    }
+]
+2023-12-21 19:50:15.128 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 19:56:05.714 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 19:56:09.336 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:56:11.945 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843435,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:56:11.947 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:11.948 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843435
+2023-12-21 19:56:13.112 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843435,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:56:13.113 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 19:56:13.113 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 19:56:13.120 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:13.120 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:56:14.458 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843435
+}
+2023-12-21 19:56:14.460 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:14.460 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843435
+2023-12-21 19:56:16.752 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843435,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:56:16.754 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 19:56:16.754 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 19:56:16.756 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:16.756 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 19:56:17.877 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843435
+}
+2023-12-21 19:56:17.878 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:17.878 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843435
+2023-12-21 19:56:19.457 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843435,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 19:56:19.458 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 19:56:19.459 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 19:56:19.467 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:19.467 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843435
+2023-12-21 19:56:20.885 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 19:56:20.885 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843435
+2023-12-21 19:56:20.885 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843435
+2023-12-21 19:56:22.209 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 19:56:22.210 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 19:56:22.210 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 19:56:22.212 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:26:14.540 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:26:21.517 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:24.517 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843464,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:24.520 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:24.521 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843464
+2023-12-21 20:26:25.863 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843464,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:25.864 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:26:25.864 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:26:25.947 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:25.948 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:27.151 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843464
+}
+2023-12-21 20:26:27.152 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:27.153 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843464
+2023-12-21 20:26:29.160 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843464,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:29.162 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:26:29.162 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:26:29.167 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:29.167 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:30.640 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843464
+}
+2023-12-21 20:26:30.641 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:30.642 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843464
+2023-12-21 20:26:32.684 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843464,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:32.686 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:26:32.686 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:26:32.699 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:32.699 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843464
+2023-12-21 20:26:34.107 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:26:34.107 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843464
+2023-12-21 20:26:34.107 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843464
+2023-12-21 20:26:35.314 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:26:35.315 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:26:35.315 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:26:35.318 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:26:40.266 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:26:43.515 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:46.511 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843465,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:46.512 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:46.512 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843465
+2023-12-21 20:26:47.857 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843465,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:47.858 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:26:47.859 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:26:47.863 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:47.863 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:49.993 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843465
+}
+2023-12-21 20:26:49.994 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:49.994 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843465
+2023-12-21 20:26:51.289 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843465,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:51.290 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:26:51.291 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:26:51.295 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:51.296 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:26:52.689 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843465
+}
+2023-12-21 20:26:52.690 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:52.691 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843465
+2023-12-21 20:26:54.703 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843465,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:26:54.705 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:26:54.705 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:26:54.711 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:54.711 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843465
+2023-12-21 20:26:56.851 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:26:56.851 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843465
+2023-12-21 20:26:56.851 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843465
+2023-12-21 20:26:58.591 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:26:58.592 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:26:58.592 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:26:58.594 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:48:25.836 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:48:31.788 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:48:34.557 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843490,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:48:34.559 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:34.559 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843490
+2023-12-21 20:48:36.448 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843490,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:48:36.450 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:48:36.450 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:48:36.543 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:36.543 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:48:38.648 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843490
+}
+2023-12-21 20:48:38.650 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:38.650 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843490
+2023-12-21 20:48:40.744 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843490,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:48:40.746 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:48:40.746 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:48:40.752 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:40.752 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:48:42.303 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843490
+}
+2023-12-21 20:48:42.305 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:42.305 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843490
+2023-12-21 20:48:44.125 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843490,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:48:44.126 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:48:44.127 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:48:44.141 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:44.141 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843490
+2023-12-21 20:48:45.466 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:48:45.467 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843490
+2023-12-21 20:48:45.467 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843490
+2023-12-21 20:48:46.697 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:48:46.698 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:48:46.698 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:48:46.701 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:48:51.589 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:48:57.078 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:48:59.174 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843491,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:48:59.175 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:48:59.175 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843491
+2023-12-21 20:49:00.892 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843491,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:49:00.893 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:49:00.894 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:49:00.898 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:00.898 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:49:02.963 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843491
+}
+2023-12-21 20:49:02.964 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:02.964 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843491
+2023-12-21 20:49:04.323 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843491,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:49:04.324 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:49:04.324 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:49:04.329 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:04.329 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:49:05.489 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843491
+}
+2023-12-21 20:49:05.490 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:05.490 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843491
+2023-12-21 20:49:07.062 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843491,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:49:07.063 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:49:07.064 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:49:07.070 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:07.070 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843491
+2023-12-21 20:49:08.264 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:49:08.265 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843491
+2023-12-21 20:49:08.265 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843491
+2023-12-21 20:49:09.563 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:49:09.564 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:49:09.564 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:49:09.566 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:52:54.957 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:52:59.046 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:53:02.599 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843498,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:53:02.602 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:02.602 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843498
+2023-12-21 20:53:04.017 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843498,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:53:04.019 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:53:04.019 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:53:04.094 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:04.095 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:53:06.050 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843498
+}
+2023-12-21 20:53:06.051 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:06.051 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843498
+2023-12-21 20:53:07.793 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843498,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:53:07.794 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:53:07.794 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:53:07.799 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:07.799 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:53:09.934 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843498
+}
+2023-12-21 20:53:09.935 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:09.935 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843498
+2023-12-21 20:53:11.794 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843498,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:53:11.795 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:53:11.796 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:53:11.813 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:11.813 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843498
+2023-12-21 20:53:13.440 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:53:13.440 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843498
+2023-12-21 20:53:13.440 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843498
+2023-12-21 20:53:14.937 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:53:14.937 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:53:14.937 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:53:14.940 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:54:00.467 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:54:04.424 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:54:06.593 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843502,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:54:06.595 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:06.595 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843502
+2023-12-21 20:54:08.425 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843502,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:54:08.427 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:54:08.427 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:54:08.495 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:08.495 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:54:10.184 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843502
+}
+2023-12-21 20:54:10.186 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:10.187 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843502
+2023-12-21 20:54:11.730 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843502,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:54:11.731 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:54:11.732 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:54:11.736 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:11.737 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:54:13.541 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843502
+}
+2023-12-21 20:54:13.542 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:13.542 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843502
+2023-12-21 20:54:15.331 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843502,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:54:15.333 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:54:15.333 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:54:15.350 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:15.350 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843502
+2023-12-21 20:54:17.338 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:54:17.338 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843502
+2023-12-21 20:54:17.338 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843502
+2023-12-21 20:54:19.636 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:54:19.636 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:54:19.636 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:54:19.640 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:55:28.214 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:55:41.137 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:55:44.435 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:55:47.260 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843510,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:55:47.262 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:47.262 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843510
+2023-12-21 20:55:49.128 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843510,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:55:49.130 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:55:49.130 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:55:49.184 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:49.184 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:55:50.413 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843510
+}
+2023-12-21 20:55:50.415 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:50.415 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843510
+2023-12-21 20:55:51.936 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843510,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:55:51.937 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:55:51.938 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:55:51.942 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:51.943 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:55:53.282 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843510
+}
+2023-12-21 20:55:53.284 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:53.284 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843510
+2023-12-21 20:55:54.916 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843510,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:55:54.917 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:55:54.918 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:55:54.931 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:54.931 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843510
+2023-12-21 20:55:57.701 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:55:57.702 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843510
+2023-12-21 20:55:57.702 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843510
+2023-12-21 20:55:59.124 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:55:59.125 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:55:59.125 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:55:59.128 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 20:56:04.060 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 20:56:06.982 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:56:08.586 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843513,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:56:08.587 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:08.588 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843513
+2023-12-21 20:56:10.056 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843513,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:56:10.057 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 20:56:10.057 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 20:56:10.061 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:10.062 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:56:13.247 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843513
+}
+2023-12-21 20:56:13.248 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:13.249 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843513
+2023-12-21 20:56:14.520 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843513,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:56:14.522 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:56:14.522 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:56:14.527 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:14.527 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 20:56:15.825 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843513
+}
+2023-12-21 20:56:15.826 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:15.826 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843513
+2023-12-21 20:56:17.394 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843513,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 20:56:17.396 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 20:56:17.396 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 20:56:17.404 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:17.405 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843513
+2023-12-21 20:56:20.131 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 20:56:20.131 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843513
+2023-12-21 20:56:20.131 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843513
+2023-12-21 20:56:21.286 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 20:56:21.287 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 20:56:21.287 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 20:56:21.300 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:01:10.157 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:01:16.083 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:18.686 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843569,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:18.690 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:18.690 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843569
+2023-12-21 21:01:20.463 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843569,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:20.465 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:01:20.465 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:01:20.519 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:20.519 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:22.289 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843569
+}
+2023-12-21 21:01:22.290 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:22.291 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843569
+2023-12-21 21:01:23.880 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843569,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:23.882 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:01:23.882 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:01:23.888 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:23.888 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:25.793 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843569
+}
+2023-12-21 21:01:25.794 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:25.795 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843569
+2023-12-21 21:01:27.397 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843569,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:27.398 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:01:27.399 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:01:27.410 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:27.410 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843569
+2023-12-21 21:01:28.577 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:01:28.578 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843569
+2023-12-21 21:01:28.578 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843569
+2023-12-21 21:01:30.942 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:01:30.943 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:01:30.944 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:01:30.947 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:01:35.805 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:01:38.727 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:40.389 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843574,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:40.390 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:40.390 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843574
+2023-12-21 21:01:43.050 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843574,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:43.051 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:01:43.051 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:01:43.055 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:43.056 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:44.338 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843574
+}
+2023-12-21 21:01:44.339 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:44.339 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843574
+2023-12-21 21:01:46.283 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843574,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:46.284 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:01:46.284 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:01:46.290 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:46.290 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:01:48.539 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843574
+}
+2023-12-21 21:01:48.540 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:48.540 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843574
+2023-12-21 21:01:50.893 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843574,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:01:50.895 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:01:50.895 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:01:50.900 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:50.901 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843574
+2023-12-21 21:01:52.222 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:01:52.222 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843574
+2023-12-21 21:01:52.223 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843574
+2023-12-21 21:01:53.493 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:01:53.493 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:01:53.494 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:01:53.495 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:02:18.893 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:02:22.196 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:24.760 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843577,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:24.762 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:24.763 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843577
+2023-12-21 21:02:26.218 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843577,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:26.220 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:02:26.220 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:02:26.274 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:26.274 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:27.886 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843577
+}
+2023-12-21 21:02:27.888 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:27.888 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843577
+2023-12-21 21:02:29.394 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843577,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:29.396 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:02:29.396 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:02:29.401 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:29.401 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:31.345 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843577
+}
+2023-12-21 21:02:31.347 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:31.347 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843577
+2023-12-21 21:02:32.982 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843577,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:32.984 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:02:32.984 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:02:32.997 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:32.997 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843577
+2023-12-21 21:02:34.635 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:02:34.635 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843577
+2023-12-21 21:02:34.635 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843577
+2023-12-21 21:02:36.568 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:02:36.569 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:02:36.569 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:02:36.572 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:02:41.434 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:02:44.348 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:46.169 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843579,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:46.171 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:46.171 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843579
+2023-12-21 21:02:47.894 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843579,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:47.896 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:02:47.896 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:02:47.900 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:47.900 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:49.362 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843579
+}
+2023-12-21 21:02:49.363 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:49.363 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843579
+2023-12-21 21:02:50.889 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843579,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:50.890 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:02:50.891 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:02:50.896 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:50.896 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:02:52.221 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843579
+}
+2023-12-21 21:02:52.222 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:52.222 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843579
+2023-12-21 21:02:53.795 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843579,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:02:53.796 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:02:53.796 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:02:53.803 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:53.803 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843579
+2023-12-21 21:02:55.505 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:02:55.505 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843579
+2023-12-21 21:02:55.506 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843579
+2023-12-21 21:02:57.193 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:02:57.194 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:02:57.194 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:02:57.196 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:05:52.147 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:05:55.797 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:05:58.569 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843594,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:05:58.571 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:05:58.572 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843594
+2023-12-21 21:06:00.455 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843594,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:00.456 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:06:00.457 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:06:00.507 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:00.507 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:06:02.551 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843594
+}
+2023-12-21 21:06:02.553 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:02.553 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843594
+2023-12-21 21:06:04.129 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843594,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:04.131 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:06:04.131 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:06:04.136 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:04.136 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:06:05.378 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843594
+}
+2023-12-21 21:06:05.380 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:05.380 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843594
+2023-12-21 21:06:06.742 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843594,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:06.744 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:06:06.744 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:06:06.757 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:06.757 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843594
+2023-12-21 21:06:08.847 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:06:08.848 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843594
+2023-12-21 21:06:08.848 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843594
+2023-12-21 21:06:10.131 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:06:10.131 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:06:10.132 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:06:10.134 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:06:15.010 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:06:17.928 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:06:19.363 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843595,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:19.364 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:19.365 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843595
+2023-12-21 21:06:20.984 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843595,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:20.985 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:06:20.985 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:06:20.989 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:20.989 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:06:22.508 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843595
+}
+2023-12-21 21:06:22.509 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:22.509 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843595
+2023-12-21 21:06:24.766 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843595,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:24.767 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:06:24.767 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:06:24.772 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:24.772 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:06:26.011 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843595
+}
+2023-12-21 21:06:26.012 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:26.012 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843595
+2023-12-21 21:06:27.378 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843595,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:06:27.380 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:06:27.380 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:06:27.386 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:27.386 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843595
+2023-12-21 21:06:29.322 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:06:29.322 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843595
+2023-12-21 21:06:29.322 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843595
+2023-12-21 21:06:31.130 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:06:31.131 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:06:31.131 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:06:31.133 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:07:56.581 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:08:00.228 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:08:02.835 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843601,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:02.838 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:02.838 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843601
+2023-12-21 21:08:04.439 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843601,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:04.441 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:08:04.441 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:08:04.492 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:04.492 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:08:06.589 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843601
+}
+2023-12-21 21:08:06.591 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:06.591 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843601
+2023-12-21 21:08:08.160 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843601,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:08.162 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:08:08.162 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:08:08.166 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:08.167 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:08:09.983 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843601
+}
+2023-12-21 21:08:09.985 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:09.985 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843601
+2023-12-21 21:08:11.929 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843601,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:11.931 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:08:11.931 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:08:11.944 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:11.944 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843601
+2023-12-21 21:08:14.284 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:08:14.284 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843601
+2023-12-21 21:08:14.284 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843601
+2023-12-21 21:08:15.719 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:08:15.719 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:08:15.719 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:08:15.723 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:08:51.193 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:08:54.857 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:08:57.297 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843618,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:57.301 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:08:57.301 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843618
+2023-12-21 21:08:59.764 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843618,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:08:59.766 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:08:59.766 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:08:59.850 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:08:59.851 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:09:01.388 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843618
+}
+2023-12-21 21:09:01.390 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:09:01.390 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843618
+2023-12-21 21:09:03.045 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843618,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:09:03.047 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:09:03.047 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:09:03.052 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:09:03.052 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:09:04.654 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843618
+}
+2023-12-21 21:09:04.656 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:09:04.656 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843618
+2023-12-21 21:09:07.102 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843618,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:09:07.103 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:09:07.104 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:09:07.118 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:09:07.119 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843618
+2023-12-21 21:09:08.771 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:09:08.771 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843618
+2023-12-21 21:09:08.771 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843618
+2023-12-21 21:09:10.786 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:09:10.787 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:09:10.787 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:09:10.790 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:11:20.605 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:11:24.262 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:11:27.211 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843625,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:11:27.213 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:27.213 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843625
+2023-12-21 21:11:30.432 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843625,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:11:30.434 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:11:30.434 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:11:30.510 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:30.510 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:11:31.855 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843625
+}
+2023-12-21 21:11:31.856 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:31.857 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843625
+2023-12-21 21:11:33.543 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843625,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:11:33.545 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:11:33.545 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:11:33.549 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:33.549 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:11:35.500 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843625
+}
+2023-12-21 21:11:35.502 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:35.502 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843625
+2023-12-21 21:11:37.595 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843625,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:11:37.597 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:11:37.597 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:11:37.623 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:37.623 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843625
+2023-12-21 21:11:39.412 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:11:39.412 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843625
+2023-12-21 21:11:39.412 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843625
+2023-12-21 21:11:41.412 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:11:41.412 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:11:41.413 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:11:41.416 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:19:06.421 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:19:09.996 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:19:13.373 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843660,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:19:13.375 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:13.375 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843660
+2023-12-21 21:19:14.809 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843660,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:19:14.810 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:19:14.810 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:19:14.891 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:14.891 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:19:16.520 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843660
+}
+2023-12-21 21:19:16.521 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:16.521 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843660
+2023-12-21 21:19:19.684 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843660,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:19:19.686 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:19:19.686 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:19:19.690 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:19.690 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Update user with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:19:21.529 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843660
+}
+2023-12-21 21:19:21.531 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:21.531 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843660
+2023-12-21 21:19:23.218 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843660,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:19:23.220 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:19:23.220 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:19:23.235 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:23.235 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Delete user with payload 5843660
+2023-12-21 21:19:24.449 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:19:24.449 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843660
+2023-12-21 21:19:24.449 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Get user with id 5843660
+2023-12-21 21:19:26.270 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:19:26.270 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:19:26.271 [main] INFO  testsuite.api.APIAddUpdateDeleteUserTest - Verify user doesn't exist
+2023-12-21 21:19:26.274 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:41:38.034 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:41:44.771 [main] INFO  objects.api.User - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:41:47.691 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843685,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:41:47.693 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843685
+2023-12-21 21:41:47.693 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 21:41:47.694 [main] INFO  objects.api.User - Get user with id 5843685
+2023-12-21 21:41:49.480 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843685,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:41:49.482 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 21:41:49.570 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843685
+2023-12-21 21:41:49.571 [main] INFO  objects.api.User - Update user 5843685 with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:41:53.101 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843685
+}
+2023-12-21 21:41:53.102 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 21:41:53.103 [main] INFO  objects.api.User - Get user with id 5843685
+2023-12-21 21:41:54.906 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843685,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:41:54.908 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:41:54.914 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843685
+2023-12-21 21:41:54.914 [main] INFO  objects.api.User - Update user 5843685 with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 21:41:57.706 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843685
+}
+2023-12-21 21:41:57.707 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy-update-failed
+2023-12-21 21:41:57.707 [main] INFO  objects.api.User - Get user with id 5843685
+2023-12-21 21:41:59.144 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843685,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 21:41:59.145 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 21:41:59.162 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843685
+2023-12-21 21:41:59.162 [main] INFO  objects.api.User - Delete user with payload 5843685
+2023-12-21 21:42:06.379 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 21:42:06.379 [main] INFO  objects.api.User - Verify user doesn't exist
+2023-12-21 21:42:06.379 [main] INFO  objects.api.User - Get user with id 5843685
+2023-12-21 21:42:09.378 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 21:42:09.378 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 21:42:09.382 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:42:14.434 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:42:14.435 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:43:01.263 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:43:01.268 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:43:25.678 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:43:32.009 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:43:32.009 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:43:32.139 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:47:42.445 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:47:48.917 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:47:48.917 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:48:06.338 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:48:16.499 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:48:22.283 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:48:22.284 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:48:38.018 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:49:09.134 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:49:14.918 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:49:14.918 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:49:32.399 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:58:53.378 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 21:59:14.006 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 21:59:14.006 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 21:59:14.672 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='Preference']
+2023-12-21 21:59:16.910 [main] INFO  helper.AppiumHelper - Click on element with text : 3. Preference dependencies
+2023-12-21 21:59:16.910 [main] INFO  helper.AppiumHelper - Scroll text into view : 3. Preference dependencies
+2023-12-21 21:59:16.944 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='3. Preference dependencies']
+2023-12-21 21:59:18.508 [main] INFO  helper.AppiumHelper - Select checkbox 'WiFi' : true
+2023-12-21 21:59:18.508 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //android.widget.TextView[@text='WiFi']/following::android.widget.CheckBox
+2023-12-21 21:59:19.335 [main] INFO  helper.AppiumHelper - Click on element with text : WiFi settings
+2023-12-21 21:59:19.335 [main] INFO  helper.AppiumHelper - Scroll text into view : WiFi settings
+2023-12-21 21:59:19.399 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']
+2023-12-21 21:59:20.657 [main] INFO  helper.AppiumHelper - Populate field 'WiFi settings' with : Jane Wifi
+2023-12-21 21:59:20.657 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']/following::android.widget.EditText
+2023-12-21 21:59:20.819 [main] INFO  helper.AppiumHelper - Click on button : OK
+2023-12-21 21:59:20.820 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //android.widget.Button[@text='OK']
+2023-12-21 21:59:22.301 [main] INFO  helper.AppiumHelper - Verify text 'WiFi settings' is present or not
+2023-12-21 21:59:22.301 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']
+2023-12-21 21:59:23.544 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 21:59:42.731 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 22:00:02.222 [main] INFO  objects.api.User - Add user with payload {'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 22:00:04.740 [main] INFO  helper.APIHelper - API POST response - {
+    "id": 5843701,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 22:00:04.742 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843701
+2023-12-21 22:00:04.742 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy
+2023-12-21 22:00:04.743 [main] INFO  objects.api.User - Get user with id 5843701
+2023-12-21 22:00:06.821 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843701,
+    "name": "Tenali Ramakrishna-copy",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 22:00:06.822 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy
+2023-12-21 22:00:18.462 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843701
+2023-12-21 22:00:18.462 [main] INFO  objects.api.User - Update user 5843701 with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 22:00:19.931 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843701
+}
+2023-12-21 22:00:19.932 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy-update
+2023-12-21 22:00:19.932 [main] INFO  objects.api.User - Get user with id 5843701
+2023-12-21 22:00:23.489 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843701,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 22:00:23.491 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 22:00:36.103 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843701
+2023-12-21 22:00:36.103 [main] INFO  objects.api.User - Update user 5843701 with payload {'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}
+2023-12-21 22:00:37.338 [main] INFO  helper.APIHelper - API PUT response - {
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "name": "Tenali Ramakrishna-copy-update",
+    "gender": "male",
+    "status": "active",
+    "id": 5843701
+}
+2023-12-21 22:00:37.339 [main] INFO  objects.api.User - Verify user name should be Tenali Ramakrishna-copy-update-failed
+2023-12-21 22:00:37.340 [main] INFO  objects.api.User - Get user with id 5843701
+2023-12-21 22:00:38.796 [main] INFO  helper.APIHelper - API GET response - {
+    "id": 5843701,
+    "name": "Tenali Ramakrishna-copy-update",
+    "email": "13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com",
+    "gender": "male",
+    "status": "active"
+}
+2023-12-21 22:00:38.798 [main] INFO  helper.BaseObject - Get Test Value 'name' : Tenali Ramakrishna-copy-update
+2023-12-21 22:00:49.179 [main] INFO  helper.BaseObject - Get Test Value 'id' : 5843701
+2023-12-21 22:00:49.179 [main] INFO  objects.api.User - Delete user with payload 5843701
+2023-12-21 22:00:50.908 [main] INFO  helper.APIHelper - API DELETE response - 
+2023-12-21 22:00:50.908 [main] INFO  objects.api.User - Verify user doesn't exist
+2023-12-21 22:00:50.908 [main] INFO  objects.api.User - Get user with id 5843701
+2023-12-21 22:00:53.605 [main] INFO  helper.APIHelper - API GET response - {
+    "message": "Resource not found"
+}
+2023-12-21 22:00:53.606 [main] INFO  helper.BaseObject - Get Test Value 'message' : Resource not found
+2023-12-21 22:00:54.197 [main] INFO  helper.AppiumHelper - Close Appium service
+2023-12-21 22:00:59.801 [main] INFO  helper.AppiumHelper - Start Appium service and connect to mobile APP
+2023-12-21 22:01:17.510 [main] INFO  helper.AppiumHelper - Click on element with text : Preference
+2023-12-21 22:01:17.511 [main] INFO  helper.AppiumHelper - Scroll text into view : Preference
+2023-12-21 22:01:18.310 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='Preference']
+2023-12-21 22:01:20.223 [main] INFO  helper.AppiumHelper - Click on element with text : 3. Preference dependencies
+2023-12-21 22:01:20.223 [main] INFO  helper.AppiumHelper - Scroll text into view : 3. Preference dependencies
+2023-12-21 22:01:20.267 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='3. Preference dependencies']
+2023-12-21 22:01:21.822 [main] INFO  helper.AppiumHelper - Select checkbox 'WiFi' : true
+2023-12-21 22:01:21.822 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //android.widget.TextView[@text='WiFi']/following::android.widget.CheckBox
+2023-12-21 22:01:22.715 [main] INFO  helper.AppiumHelper - Click on element with text : WiFi settings
+2023-12-21 22:01:22.715 [main] INFO  helper.AppiumHelper - Scroll text into view : WiFi settings
+2023-12-21 22:01:22.763 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']
+2023-12-21 22:01:24.590 [main] INFO  helper.AppiumHelper - Populate field 'WiFi settings' with : Jane Wifi
+2023-12-21 22:01:24.590 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']/following::android.widget.EditText
+2023-12-21 22:01:24.769 [main] INFO  helper.AppiumHelper - Click on button : OK
+2023-12-21 22:01:24.769 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //android.widget.Button[@text='OK']
+2023-12-21 22:01:25.598 [main] INFO  helper.AppiumHelper - Verify text 'WiFi settings' is present or not
+2023-12-21 22:01:25.599 [main] INFO  helper.AppiumHelper - Locate element By.xpath: //*[@text='WiFi settings']
+2023-12-21 22:01:26.738 [main] INFO  helper.AppiumHelper - Close Appium service
