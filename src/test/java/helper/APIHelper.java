@@ -4,72 +4,66 @@ import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
+import io.restassured.response.ResponseOptions;
 import io.restassured.specification.RequestSpecification;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.net.URI;
-import java.net.URISyntaxException;
-
 public class APIHelper extends BaseObject{
     private static final Logger logger = LogManager.getLogger(APIHelper.class);
-    public static RequestSpecification request;
-    public APIHelper(){
-        RequestSpecBuilder builder = new RequestSpecBuilder();
-        builder.setBaseUri(props.getProperty("baseURI"));
+    private RequestSpecBuilder builder = new RequestSpecBuilder();
+    private String url;
+    private String method;
+    private ResponseOptions<Response> response;
+    private RequestSpecification request;
+
+    /**
+     * Initial API Helper with uri / method / content type / token
+     * @param uri uri needs to be requested
+     * @param method constant GET / POST / DELETE / PUT
+     */
+
+    public APIHelper(String uri, String method){
+        this.url = props.getProperty("baseURI") + uri;
+        this.method = method;
         builder.setContentType(ContentType.JSON);
         builder.addHeader("Authorization", "Bearer b072e38252a11dd6e84b0a1f9d654242ed9d7330638fd0aed34f6b1df0f8dd93");
-        var requestSpec = builder.build();
-        request = RestAssured.given().spec(requestSpec);
-
+        RequestSpecification requestSpec = builder.build();
+        request = RestAssured.given();
+        request.spec(requestSpec);
     }
-    public static Response get(String url) {
-        try {
-            Response response = request.get(new URI(url));
-            logger.info("API GET response - " + response.jsonPath().prettify());
-            addResponseToTestVariables(response.jsonPath().prettify());
-            response.statusCode();
-            return response;
-        } catch (URISyntaxException e) {
-            e.printStackTrace();
+
+    /**
+     * Generic executeAPI for methods GET / POST / DELETE / PUT
+     * @return response
+     */
+
+    public ResponseOptions<Response> executeAPI(){
+        if (this.method.equalsIgnoreCase(APIConstant.ApiMethods.GET)){
+            response = request.get(this.url);
+        } else if (this.method.equalsIgnoreCase(APIConstant.ApiMethods.POST)){
+            response = request.post(this.url);
+        }else if (this.method.equalsIgnoreCase(APIConstant.ApiMethods.DELETE)){
+            response = request.delete(this.url);
+        }else if (this.method.equalsIgnoreCase(APIConstant.ApiMethods.PUT)){
+            response = request.put(this.url);
         }
-        return null;
-    }
-
-    public static Response post(String url, String payload){
         try {
-            request.body(jsonToHashmap(payload));
-            Response response = request.post(url);
-            logger.info("API POST response - " + response.jsonPath().prettify());
-            addResponseToTestVariables(response.jsonPath().prettify());
-            return response;
+            logger.info("API " + this.method + " response - " + response.getBody().jsonPath().prettify());
+            addResponseToTestVariables(response.getBody().jsonPath().prettify());
         } catch (Exception e){
             e.printStackTrace();
         }
-        return null;
+        return response;
     }
 
-    public static Response delete(String url){
-        try {
-            Response response = request.delete(url);
-            logger.info("API DELETE response - " + response.asPrettyString());
-            return response;
-        } catch (Exception e){
-            e.printStackTrace();
-        }
-        return null;
-    }
-
-    public static Response put(String url, String payload){
-        try {
-            request.body(jsonToHashmap(payload));
-            Response response = request.put(url);
-            logger.info("API PUT response - " + response.jsonPath().prettify());
-            addResponseToTestVariables(response.jsonPath().prettify());
-            return response;
-        } catch (Exception e){
-            e.printStackTrace();
-        }
-        return null;
+    /**
+     * Set the body for requesting
+     * @param body json format string
+     * @return response
+     */
+    public ResponseOptions<Response> executeWithBody(String body){
+        request.body(jsonToHashmap(body));
+        return executeAPI();
     }
 }

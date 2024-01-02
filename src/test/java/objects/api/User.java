@@ -1,5 +1,6 @@
 package objects.api;
 
+import helper.APIConstant;
 import helper.APIHelper;
 import helper.BaseObject;
 import org.apache.logging.log4j.LogManager;
@@ -10,22 +11,26 @@ public class User {
     private static final Logger logger = LogManager.getLogger(User.class);
     public void add(String payload){
         logger.info("Add user with payload " + payload);
-        APIHelper.post("public/v2/users/", payload);
+        APIHelper helper = new APIHelper("public/v2/users/", APIConstant.ApiMethods.POST);
+        helper.executeWithBody(payload);
     }
 
     public void get(String id){
         logger.info("Get user with id " + id);
-        APIHelper.get("public/v2/users/" + id);
+        APIHelper helper = new APIHelper("public/v2/users/" + id, APIConstant.ApiMethods.GET);
+        helper.executeAPI();
     }
 
     public void update(String id, String payload){
         logger.info("Update user " + id + " with payload " + payload);
-        APIHelper.put("public/v2/users/" + id, payload);
+        APIHelper helper = new APIHelper("public/v2/users/" + id, APIConstant.ApiMethods.PUT);
+        helper.executeWithBody(payload);
     }
 
     public void delete(String id){
         logger.info("Delete user with payload " + id);
-        APIHelper.delete("public/v2/users/" + id);
+        APIHelper helper = new APIHelper("public/v2/users/" + id, APIConstant.ApiMethods.DELETE);
+        helper.executeAPI();
     }
 
     public void verifyUserNotExist(String id){

@@ -1,7 +1,6 @@
 package testsuite.api;
 
 import helper.BaseObject;
-import helper.Hooks;
 import objects.api.User;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
@@ -9,13 +8,13 @@ import org.junit.jupiter.api.Test;
 
 @DisplayName("Test User API")
 @Tag("smoketest")
-public class APIAddUpdateDeleteUserTest extends Hooks {
+public class APIAddUpdateDeleteUserTest {
     public User user = new User();
 
     @DisplayName("Test Add User through API")
     @Test
     public void testAddUser() {
-        String payload = "{'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}";
+        String payload = "{'name':'Tenali Ramakrishna-copy', 'gender':'male', 'email':'Tenali.Ramakrishna.copy2@15ce.com', 'status':'active'}";
         user.add(payload);
         String userId = BaseObject.getVariableByKey("id");
         user.verifyUserNameShouldBe(userId, "Tenali Ramakrishna-copy");
@@ -25,7 +24,7 @@ public class APIAddUpdateDeleteUserTest extends Hooks {
     @Test
     public void testUpdateUser(){
         String userID = BaseObject.getVariableByKey("id");
-        String payload = "{'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'13312teyunalishnfddfdfdfdfdfdfa.copy@15ce.com', 'status':'active'}";
+        String payload = "{'name':'Tenali Ramakrishna-copy-update', 'gender':'male', 'email':'Tenali.Ramakrishna.copy2@15ce.com', 'status':'active'}";
         user.update(userID, payload);
         user.verifyUserNameShouldBe(userID, "Tenali Ramakrishna-copy-update");
     }

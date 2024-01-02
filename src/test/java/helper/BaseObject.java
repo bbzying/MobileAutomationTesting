@@ -23,6 +23,10 @@ public class BaseObject {
     public BaseObject() {
     }
 
+    /**
+     * Wait for seconds
+     * @param seconds count of seconds
+     */
     public void waitForSeconds(String seconds){
         try {
             Thread.sleep(Integer.parseInt(seconds) * 1000L);
@@ -31,6 +35,10 @@ public class BaseObject {
         }
     }
 
+    /**
+     * Add API call response into test variables
+     * @param response API call response, json format string
+     */
     public static void addResponseToTestVariables(String response){
         JSONObject obj = new JSONObject(response);
         Iterator<String> itr = obj.keys();
@@ -40,6 +48,11 @@ public class BaseObject {
         }
     }
 
+    /**
+     * Parse json format string into Hashmap type
+     * @param jsonString json format string
+     * @return HashMap key value pairs
+     */
     public static HashMap<String, Object> jsonToHashmap(String jsonString){
         HashMap<String, Object> retMap = new HashMap<>();
         JSONObject json = new JSONObject(jsonString);
@@ -49,6 +62,12 @@ public class BaseObject {
         return retMap;
     }
 
+    /**
+     * Parse JSONObject value to HashMap value
+     * @param object JSONObject value
+     * @return HashMap value
+     * @throws JSONException
+     */
     public static HashMap<String, Object> toMap(JSONObject object) throws JSONException {
         HashMap<String, Object> map = new HashMap<>();
 
@@ -69,6 +88,12 @@ public class BaseObject {
         return map;
     }
 
+    /**
+     * Parse JSONArray value into List value
+     * @param array JSONArray value
+     * @return List value
+     * @throws JSONException
+     */
     public static List<Object> toList(JSONArray array) throws JSONException {
         List<Object> list = new ArrayList<>();
         for(int i = 0; i < array.length(); i++) {
@@ -85,13 +110,22 @@ public class BaseObject {
         return list;
     }
 
-
+    /**
+     * Get test values by key
+     * @param key of the value
+     * @return key mapping value
+     */
     public static String getVariableByKey(String key){
         String value = variables.get(key).toString();
         logger.info("Get Test Value '"+key+"' : " + value);
         return value;
     }
 
+    /**
+     * Set test values, key value pairs
+     * @param key key string
+     * @param val value
+     */
     public static void setVariable(String key, Object val){
         variables.put(key,val);
     }

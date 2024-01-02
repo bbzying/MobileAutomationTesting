@@ -1,6 +1,6 @@
 package testsuite.appium;
 
-import helper.Hooks;
+import helper.AppiumHooks;
 import objects.appium.Base;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 
 @DisplayName("Test APP Add new Wifi name")
 @Tag("smoketest")
-public class AppiumAddNewWifiNameTest extends Hooks {
+public class AppiumAddNewWifiNameTest extends AppiumHooks {
     public Base base = new Base();
 
     @Test
